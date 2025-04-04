@@ -1,5 +1,7 @@
-Fairness in Machine Learning: A Step Towards Equitable AI! 
-As AI continues to shape our world, one question remains at the forefront of ethical AI development: Are our models fair? 
+**Fairness in Machine Learning: A Step Towards Equitable AI.** 
+
+As AI continues to shape our world, one question remains at the forefront of ethical AI development: 
+Are our models fair? 
 
 In a this project, I took a deep dive into fairness in machine learning and how we can reduce bias in predictive models. Here’s what I discovered:
 
